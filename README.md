@@ -1,1 +1,1 @@
-A work in Progress. Supposed to use C++ as a cradle to unload a C Reverse Shell. Then saved as a DLL for DLL Hijack.
+A work in Progress. It was supposed to mix a C Reverse shell with a C++ DLL and di not work out as planned. I needed AI to fix but I have included the corrected code.
